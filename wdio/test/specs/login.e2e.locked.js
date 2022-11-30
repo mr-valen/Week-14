@@ -1,5 +1,4 @@
 import LoginPage from  '../pageobjects/login.page';
-import ProductsPage from '../pageobjects/products.page';
 
 describe('SwagLabs Login application', () => {
     beforeAll('Navigate to url', () => {
